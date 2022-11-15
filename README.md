@@ -1,31 +1,9 @@
 
 > Open this page at [https://limon012.github.io/brazo-robotico-1/](https://limon012.github.io/brazo-robotico-1/)
 
-## Use as Extension
+## Brazo robotico
 
-This repository can be added as an **extension** in MakeCode.
+Este proyecto fue creado con los fines de motivar a los jovenes a que creen nuevos proyectos como este, podria decirse que este 
+proyecto quiso dar solucion a llevar objetos y sostener objetos que se dan en la vida cotidiana, claramente este es un ensayo pequeño de este Brazo robotico que en un futuro se lograra hacerlo en una version mas grande para que ayude a las personas en trabajos pesados o que simplementa sea del uso que ellos necesiten.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/limon012/brazo-robotico-1** and import
-
-## Edit this project ![Build status badge](https://github.com/limon012/brazo-robotico-1/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/limon012/brazo-robotico-1** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/limon012/brazo-robotico-1/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Integrantes: Helen Achicanoy, Alison Miramag, Camila Villota, Sara Timaran, Leidy Estrada
